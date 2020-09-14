@@ -4,7 +4,7 @@ Stata Group Lab \
 
 Outline
 
-We are all aware that there is a material correlation shown between race and COVID infections [Show Below below]. While some of this causation can be associated with genetic differences between races, we believe that there are substantial reasons for the correlation between race and COVID infections having to do with poverty, access to healthcare, geographic factors, and education.
+We are all aware that there is a material correlation shown between race and COVID infections [Show graph below]. While some of this causation can be associated with genetic differences between races, we believe that there are substantial reasons for the correlation between race and COVID infections having to do with poverty, access to healthcare, geographic factors, and education.
 
 
 [Bar chart of correlation between race and COVID infection rates]
