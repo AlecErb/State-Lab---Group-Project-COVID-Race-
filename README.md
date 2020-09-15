@@ -23,4 +23,5 @@ We are all aware that there is a material correlation shown between race and COV
 - Density map of effected races in each state
 
 
+*Use T-Tests to prove hypothesis
  
